@@ -12,5 +12,10 @@
   "devDependencies": {
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "redis": "^3.0.2",
+    "sequelize": "^6.3.5",
+    "sequelize-redis-cache": "^2.0.1"
   }
 }
